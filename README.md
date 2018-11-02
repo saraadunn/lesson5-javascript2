@@ -13,8 +13,7 @@ Web Application Development
 (To use an exchange rate calculator to exchange US dollars to any different 15 different currencies.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://saraadunn.github.io/lesson5-javascript2/.)
 
 ### Lessons Learned in the Assignment:
 1. (declaring variables and assigning them to a integer. )
